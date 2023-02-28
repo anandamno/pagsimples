@@ -1,0 +1,46 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin: 0;
+    font-size: 15px;
+    color: #828282;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#fly {
+    width: 570px;
+    margin: 64px 0 64px;
+}
+
+h1 {
+    font-family: "Dosis", sans-serif;
+    font-size: 32px;
+    color: #3F3D56;
+}
+
+h1 span{
+    color: #EE24FF;
+}
+
+a {
+    color: #3F3D56;
+}
+
+#footer a + a {
+    margin-left: 22.15px;
+}
+
+#onda {
+    margin-top: 34px;
+    width: 100%;
+}
+
+
+
+
